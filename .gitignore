@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Data and model artifacts (local only)
+data/
+models/
+
+# Editors / OS junk
+.vscode/
+.ipynb_checkpoints
+.DS_Store
